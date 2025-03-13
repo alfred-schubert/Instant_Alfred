@@ -1,0 +1,11 @@
+bqplot
+ipympl
+ipyvolume
+scipy
+voila
+pandas
+ipywidgets
+IPython.display
+numpy
+io
+collections
